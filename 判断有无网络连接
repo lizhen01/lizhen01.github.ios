@@ -3,6 +3,7 @@
 
 ///判断有无网络连接
 - (BOOL)isReachabilityStatue{
+
     
     // Create zero addy
     struct sockaddr_in zeroAddress;
